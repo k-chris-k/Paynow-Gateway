@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include paynow_gateway *.css
+recursive-include paynow_gateway *.csv
+recursive-include paynow_gateway *.html
+recursive-include paynow_gateway *.ico
+recursive-include paynow_gateway *.js
+recursive-include paynow_gateway *.json
+recursive-include paynow_gateway *.md
+recursive-include paynow_gateway *.png
+recursive-include paynow_gateway *.py
+recursive-include paynow_gateway *.svg
+recursive-include paynow_gateway *.txt
+recursive-exclude paynow_gateway *.pyc

@@ -1,2 +1,7 @@
-# Paynow-Gateway
-ZWE Online Payment Platform Integration
+## Paynow Gateway
+
+Payment gateway for paynow online payments in Zimbabwe.
+
+#### License
+
+MIT
